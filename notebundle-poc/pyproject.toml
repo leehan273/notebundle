@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "notebundle-poc"
+version = "0.1.0"
+description = "A proof-of-concept CLI for Notebundle."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+notebundle-poc = "notebundle_poc.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
