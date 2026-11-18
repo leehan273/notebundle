@@ -80,7 +80,7 @@ Notebundle is a proposal for managing text notes and attachments that preserves 
 
 ## Support software
 
-- **obsidian-notebundle** - [Tangled repo link](https://tangled.org/leehan273.tngl.sh/obsidian-notebundle), [GitHub Repo link](https://github.com/leehan273/obsidian-notebundle)
+- **[obsidian-notebundle](https://github.com/leehan273/obsidian-notebundle)**
 
     Obsidian plugin that supports Notebundle natively.
 
