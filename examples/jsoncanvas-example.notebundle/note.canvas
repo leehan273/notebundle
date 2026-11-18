@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fae724e8d78d3a26","type":"file","file":"examples/jsoncanvas-example.notebundle/attachments/sample.svg","x":-420,"y":-280,"width":400,"height":225},
+		{"id":"adb5fa76dcabc2a0","type":"text","text":"Obsidian (Version 1.15.1) doesn't support relative links in Canvas yet, so Canvas attachments are just placed together in the file tree and aren't actually portable from the vault.\n\n(This may differ in other JSON Canvas-supporting applications. The JSON Canvas specification doesn't restrict this.)","x":-80,"y":40,"width":472,"height":300}
+	],
+	"edges":[
+		{"id":"029e3a85abc528c6","fromNode":"adb5fa76dcabc2a0","fromSide":"top","toNode":"fae724e8d78d3a26","toSide":"right"}
+	]
+}
