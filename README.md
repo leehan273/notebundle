@@ -38,7 +38,7 @@ notes/
 
 Because Notebundle only specifies naming conventions for directories and main notes (required) and the location of attachments (recommended) ([#Convention](#convention)), the same approach can be used for plain-text notes other than Markdown.
 
-For example, you can find a jsoncanvas (Obsidian Canvas) notebundle example in [/examples](examples/README.md).
+For example, you can also find a JSON Canvas (Obsidian Canvas) note bundle example in [/examples](examples/).
 
 ## Why?
 
@@ -74,7 +74,7 @@ Notebundle is a proposal for managing text notes and attachments that preserves 
 
 - **Place any attachments that should be bundled in the `attachments/` folder.** (Recommended)
     
-    Attachments needed only by that note file should be placed in the `attachments/` folder inside `*.notebundle/`.
+    Attachments needed only by that note file are recommended to be placed in the `attachments/` folder inside `*.notebundle/`.
 
 **The main goal of Notebundle is to help users make use of and manage their own notes in ways that suit their needs,** so the internal structure and the behavior of any scripts used with it may be adapted to individual needs.
 
